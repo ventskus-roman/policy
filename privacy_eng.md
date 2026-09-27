@@ -14,7 +14,7 @@ When you use “Chat with the developer” or “Report inaccurate estimate” i
 
 Your message includes your language, app and iOS versions, Free or Pro subscription status, and anonymous RevenueCat app user ID so that we can follow up on your request. An inaccurate-estimate report also includes the meal name, calorie estimate, and input method.
 
-Support messages and replies are automatically translated using OpenAI. We use Apple Push Notification service to notify you of replies. Support messages, any attached photos, and the associated context are stored on the developer’s server to maintain the conversation and are also delivered through Telegram.
+Support messages and replies are automatically translated using OpenAI. We use Apple Push Notification service to notify you of replies. Support messages and their associated context are stored on the developer’s server to maintain the conversation. Attached photos are held on the server until they are successfully delivered to Telegram. Messages, photos, and context are also delivered to the developer through Telegram.
 
 You can delete the local chat history using “Delete all data” in the app. This does not automatically delete the server copy. To request deletion of the server copy, send a request in the support chat or contact scofield665@gmail.com.
 
