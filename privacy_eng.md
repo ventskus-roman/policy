@@ -1,12 +1,22 @@
 # Privacy Policy
 
-Last updated: September 26, 2026
+Last updated: September 27, 2026
 
 The application uses the information you provide and the anonymous identifiers and purchase information described below. For Keto AI Scanner, this information is processed by our server and the service providers described below to provide app functionality. It is not used for advertising or tracking.
 
 ### AI processing (Keto AI Scanner)
 
 When you scan food or ask a follow-up question, the photo and your question are sent over an encrypted connection to our server and then to our AI service providers, OpenAI and Anthropic, solely to analyze your food and answer you. We ask for your consent in the app before the first scan. Our providers do not use this data to train their models. They may keep it for a limited time (typically up to 30 days) for abuse and safety monitoring, after which it is deleted. Your scan history (photos and results) is stored only on your device.
+
+### Chat with the developer (NutriAI)
+
+When you use “Chat with the developer” or “Report inaccurate estimate” in NutriAI, the text you send and any meal photo you choose to include are sent through the developer’s server to the developer in a private Telegram support group. Sending a photo is optional.
+
+Your message includes your language, app and iOS versions, Free or Pro subscription status, and anonymous RevenueCat app user ID so that we can follow up on your request. An inaccurate-estimate report also includes the meal name, calorie estimate, and input method.
+
+Support messages and replies are automatically translated using OpenAI. We use Apple Push Notification service to notify you of replies. Support messages, any attached photos, and the associated context are stored on the developer’s server to maintain the conversation and are also delivered through Telegram.
+
+You can delete the local chat history using “Delete all data” in the app. This does not automatically delete the server copy. To request deletion of the server copy, send a request in the support chat or contact scofield665@gmail.com.
 
 ### Identifiers and purchases
 
