@@ -18,6 +18,10 @@ If your version offers **Copy support ID** in Settings, use it and review the co
 
 State which scope you want: local/iCloud health records, PostHog analytics, RevenueCat purchase/customer records or a support conversation. We use the identifier and a proportionate verification step to locate the right record and related aliases. Do not send health records as identity proof. No lookup or deletion is triggered automatically by this page or by copying details. For your own local records, delete individual sessions in History or clear recent contractions in the timer; this is not an erase-all action. iCloud and shared PDF copies need separate consideration.
 
+## Support correspondence and retention
+
+We use your email address, message and any identifiers you provide to resolve your request and handle related follow-up. We retain them for as long as needed for those purposes, applicable legal obligations or establishing, exercising or defending legal claims. When they are no longer needed for these purposes, we delete the information or remove identifying details. You can request deletion of a support conversation at the email above. We review the request and explain any information that must be retained and why. We do not promise automatic mailbox expiry or a fixed retention period. The 12-month PostHog analytics-event window is separate from support email.
+
 ## Restore, manage or cancel Premium
 
 Use Restore purchases in the app with the Apple account that made the purchase. For subscriptions, [open Apple subscription settings](https://apps.apple.com/account/subscriptions); for eligible refund requests, use [Apple Report a Problem](https://reportaproblem.apple.com/). Removing the app or deleting a RevenueCat record does not cancel your Apple subscription. Restore can synchronize purchase records again.

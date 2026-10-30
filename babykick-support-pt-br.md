@@ -18,6 +18,10 @@ Se sua versão oferecer **Copy support ID** nos Ajustes, copie e confira o texto
 
 Informe o escopo: histórico local/iCloud, análises PostHog, compras/cliente RevenueCat ou conversa de suporte. Usamos o identificador e uma verificação proporcional para localizar o registro correto e seus aliases. Não envie registros de saúde como prova de identidade. A página e a cópia dos detalhes não pesquisam nem excluem dados automaticamente. Sessões individuais podem ser excluídas no Histórico, e contrações recentes podem ser limpas no cronômetro; isso não apaga todos os dados. iCloud e PDFs compartilhados precisam ser considerados separadamente.
 
+## Correspondência de suporte e retenção
+
+Usamos seu e-mail, mensagem e identificadores fornecidos para resolver a solicitação e tratar acompanhamentos relacionados. Nós os retemos pelo tempo necessário para essas finalidades, obrigações legais aplicáveis ou para estabelecer, exercer ou defender direitos em processos. Quando essas finalidades deixam de exigir os dados, nós os excluímos ou removemos os detalhes de identificação. Você pode solicitar a exclusão de uma conversa pelo e-mail acima. Analisamos a solicitação e explicamos quais informações precisam ser mantidas e por quê. Não prometemos expiração automática da caixa de e-mail nem um prazo fixo de retenção. A janela de 12 meses dos eventos de análise PostHog é separada do e-mail de suporte.
+
 ## Restaurar ou cancelar Premium
 
 Use Restore purchases no app com a mesma conta Apple da compra. Para assinaturas, [abra os ajustes Apple](https://apps.apple.com/account/subscriptions). Para solicitar um reembolso elegível, use [Apple Report a Problem](https://reportaproblem.apple.com/). Remover o app ou excluir um registro RevenueCat não cancela sua assinatura Apple. Restaurar pode sincronizar as compras novamente.
